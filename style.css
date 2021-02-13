@@ -1,0 +1,20 @@
+body{
+    background-color: bisque;
+}
+input{
+    margin: 10px;
+}
+#submit{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#sort_names{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#reset{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
